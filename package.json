@@ -1,0 +1,26 @@
+{
+  "name": "proxifly-free-socks5-proxies",
+  "version": "1.0.0",
+  "description": "Free SOCKS5 Proxies a free list of tested, working SOCKS5 proxies from 100+ countries, updated continuously",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "socks5",
+    "socks5-proxy",
+    "free-proxy",
+    "proxy-list",
+    "proxies",
+    "web-scraping",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Proxifly",
+  "license": "ISC",
+  "homepage": "https://proxifly.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proxifly/free-socks5-proxies.git"
+  }
+}
